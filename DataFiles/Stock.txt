@@ -1,0 +1,5 @@
+Cola, 1.3, 7
+Snikers, 5.0, 2
+Chocolate Bar, 2, 2
+Water, 1.20, 5
+Crisps, 0.90, 0
